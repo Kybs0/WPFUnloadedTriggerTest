@@ -1,0 +1,2 @@
+# WPFUnloadedTriggerTest
+Unloaded/Loaded非预期触发的测试Demo
